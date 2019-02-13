@@ -15,6 +15,8 @@ How it works:
   4. User need to give a Port number for connection
   5. From the Client side, user need to input the Server IP and Port to connect to the Server.
 
-A sample screenshot of the main screen of the application:
+A sample screenshot of the main screen (Server) of the application:
+![Main Screen](https://raw.githubusercontent.com/sabbirahmad/RemoteDesktop/master/screenshots/main_screen_Server.png)
 
-![Main Screen](https://raw.githubusercontent.com/sabbirahmad/RemoteDesktop/master/screenshots/main_screen.png)
+A sample screenshot of the main screen (Client) of the application:
+![Main Screen](https://raw.githubusercontent.com/sabbirahmad/RemoteDesktop/master/screenshots/main_screen_Client.png)
